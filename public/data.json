@@ -1,0 +1,12 @@
+{
+    "goodPlayers": [
+        { "name": "Ford", "flag": "Fiesta", "rating": 5 },
+        { "name": "BMW", "flag": "Something", "rating": 7 },
+        { "name": "Fiat", "flag": "500", "rating": 6 }
+    ],
+    "badPlayers": [
+        { "name": "Ford again", "flag": "Focus", "rating": 3 },
+        { "name": "BMW really?", "flag": "None", "rating": 1 },
+        { "name": "Not Fiat", "flag": "Panda", "rating": 0 }
+    ]
+}
